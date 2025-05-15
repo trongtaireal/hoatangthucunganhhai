@@ -1,0 +1,7 @@
+title: Dịch Vụ Hỏa Táng Thú Cưng TPHCM # Hoặc tiêu đề trang web của bạn
+description: Dịch vụ hỏa táng thú cưng uy tín, tận tâm tại TPHCM. # Mô tả ngắn gọn
+url: "https://hoatangthucungttphcm.com" # URL chính của trang web bạn (với hai chữ t)
+
+plugins:
+  - jekyll-sitemap
+  # - jekyll-feed # Nếu bạn muốn có RSS feed
